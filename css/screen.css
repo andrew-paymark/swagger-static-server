@@ -1184,10 +1184,13 @@
   margin: 0 10px 0 0;
 }
 .swagger-section #header form#api_selector .input input#input_apiKey {
-  width: 200px;
+  width: 175px;
+}
+.swagger-section #header form#api_selector .input input#input_apiAuth {
+  width: 175px;
 }
 .swagger-section #header form#api_selector .input input#input_baseUrl {
-  width: 400px;
+  width: 250px;
 }
 .swagger-section #header form#api_selector .input a#explore {
   display: block;
